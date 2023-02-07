@@ -1,0 +1,9 @@
+[
+	{
+		"id": "apiKey",
+		"label": "Enter your Giant Bomb API key here",
+		"type": "text",
+		"default": "",
+		"secure": "true"
+	}
+]
